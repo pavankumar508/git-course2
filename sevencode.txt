@@ -1,1 +1,3 @@
 welcome team!!!!
+take input from user
+add the values
